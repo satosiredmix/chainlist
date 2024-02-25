@@ -377,6 +377,11 @@ export const extraRpcs = {
         trackingDetails: privacyStatement.tornadoRPC,
       },
       {
+        url: "https://eth1.lava.build/lava-referer-8c38ea7a-4b5e-4434-a7fe-416cb4769428/",
+        tracking: "yes",
+        trackingDetails: privacyStatement.lava,
+      },
+      {
         url: "https://rpc.tornadoeth.cash/mev",
         tracking: "none",
         trackingDetails: privacyStatement.tornadoRPC,
